@@ -33,8 +33,8 @@ Revolucionar la manera en que las taquerías y negocios locales gestionan:
 ---
 
 ## 📌 Estado del Proyecto
-✅ Proyecto en fase inicial (desarrollo de bot para WhatsApp).  
-🔄 Próximos pasos: integración con CRM y panel de control web.  
+✅ Proyecto en fase inicial (desarrollo de bot para WhatsApp y diagrama).  
+🔄 Próximos pasos: integración con CRM.  
 
 ---
 
