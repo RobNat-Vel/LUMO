@@ -1,0 +1,11 @@
+# Entorno virtual
+.venv/
+
+# Variables sensibles
+.env
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.zip
+ngrok*
